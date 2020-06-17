@@ -1,0 +1,22 @@
+{
+  "name": "mutasi-mandiri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khoirulh1610/mutasi-mandiri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khoirulh1610/mutasi-mandiri/issues"
+  },
+  "homepage": "https://github.com/khoirulh1610/mutasi-mandiri#readme",
+  "dependencies": {
+    "puppeteer": "^4.0.0"
+  }
+}
